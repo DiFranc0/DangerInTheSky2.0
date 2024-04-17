@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7741ac24b6069b44aa30e44bc9511d9a, type: 3}
+  m_Name: Legacy_Fire3_X
+  m_EditorClassIdentifier: 
+  keyboardSprite: {fileID: 21300000, guid: c4fcc0bb1d98f26448c82293b552b6dd, type: 3}
+  controllerSprite: {fileID: 21300000, guid: 151952c50659a50478486174d7e76cfd, type: 3}
+  mobileInput: 1
+  mobileSprite: {fileID: 21300000, guid: e09856646b7b70c4aa81b3ed758c395a, type: 3}
+  keyboardName: Fire3
+  controllerName: Fire3

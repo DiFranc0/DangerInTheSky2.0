@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad41e44d8e01f1428b17484ea9097a8, type: 3}
+  m_Name: South_A_Space
+  m_EditorClassIdentifier: 
+  keyboardSprite: {fileID: 21300000, guid: c7e9c40a051bf2d4a8329e0d0bdd9fa6, type: 3}
+  controllerSprite: {fileID: 21300000, guid: c001c78cfc1b520428bc66f5c951792e, type: 3}
+  mobileInput: 1
+  mobileSprite: {fileID: 21300000, guid: e09856646b7b70c4aa81b3ed758c395a, type: 3}
+  keyboardButtons: 01000000
+  controllerButtons: 06000000
+  stickInput: 0

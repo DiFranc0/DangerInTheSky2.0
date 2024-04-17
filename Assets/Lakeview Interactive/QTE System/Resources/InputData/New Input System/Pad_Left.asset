@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad41e44d8e01f1428b17484ea9097a8, type: 3}
+  m_Name: Pad_Left
+  m_EditorClassIdentifier: 
+  keyboardSprite: {fileID: 21300000, guid: bc3ca4d2e44b83c4a8943eac6cf0c643, type: 3}
+  controllerSprite: {fileID: 21300000, guid: b13efc52871b3a94392e0837e8e97381, type: 3}
+  mobileInput: 4
+  mobileSprite: {fileID: 21300000, guid: 5438c656d6b2fe54dafafbe6505d230b, type: 3}
+  keyboardButtons: 3d000000
+  controllerButtons: 02000000
+  stickInput: 0

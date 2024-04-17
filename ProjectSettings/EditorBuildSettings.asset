@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/1. Single QTE.unity
+    guid: f8ca2f123eef5e043b1728a9691892c5
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/3. Multi-Press QTE.unity
+    guid: 03653bfe725c41f4480838546920b2fa
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/4. Mashing QTE.unity
+    guid: 2bfcea8ec4aada942897934e86e2cb7b
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/5. Clickable QTE.unity
+    guid: 3582c3e3c2c07af4c9cd8da594c6ebb8
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/6.2 Sliding QTE World Space.unity
+    guid: a7d7119a8c92de04caadb1874deedf32
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/7. World Space Example 1.unity
+    guid: ddab6171c2ec3c04aa5373ffd609d118
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/8. Billboarded World Space Example.unity
+    guid: 65d59fb6d01480441901218a9be12db2
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/9. Cutscene Example.unity
+    guid: d12e290fb42f87846aee0b5710aaeeb7
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/10. 3D Cutscene.unity
+    guid: 561485889120dfe48aeb403091fc05b6
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/11. Alternating QTE.unity
+    guid: 2e8f013c285712342b42581814d6a7c8
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/12. Timeline Example.unity
+    guid: d2df759acbaf2334f83352dd9069fc58
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/13. Timed Choice.unity
+    guid: 77ab81f849d23374e9fbf52c6b3403ab
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/1. Single QTE.unity
+    guid: 6ab6979f3e8145245940592c379027fd
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/2. Consecutive QTEs.unity
+    guid: de879e935d713cd42aa8dbd445fcc81d
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/3. Multi-Press QTE.unity
+    guid: c9aa041b47bd95145b6e7c2de73a12b4
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/4. Mashing QTE.unity
+    guid: 5c6b7466550049747aa02eea85bc331a
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/5. Clickable QTE.unity
+    guid: 8b55608d043ba8a4caf8793cd3f4456c
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/6. Sliding QTE.unity
+    guid: 3bf20ddd7157a8e4185b2aa9c4f39630
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/7. World Space Example
+      1.unity
+    guid: c7910dc8ff2a2754b812e33d36eb26ab
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/8. Billboarded World
+      Space Example.unity
+    guid: 2f67f36046f9e934db65399f6c60f587
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/9. Cutscene Example.unity
+    guid: 63ed1b3a51fd6934e9c15a5a9949d8c2
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/10. 3D Cutscene.unity
+    guid: d4883fceabf517249a5a948afd965a62
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/11. Alternating QTE.unity
+    guid: be5787647511c134a9769de933a160b5
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/12. Timeline Example.unity
+    guid: 1340281066dc2504c813481cae13ed34
+  - enabled: 0
+    path: Assets/Lakeview Interactive/QTE Examples/Legacy Input/14. Timed Choice
+      with Delay.unity
+    guid: ef877a198b4f4c0408d9d75a8b25643f
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 8ae0d75612cfb9d46be56d9ed02b3b2b
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 867402bc9f70f44489c566574a89b0d1
+  m_configObjects: {}
